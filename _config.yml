@@ -6,13 +6,13 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Sathvik Sanjeev B
 title: Undergraduate Student, IIIT
 email: sathviksanjeev.b@research.iiit.ac.in
-#phone:
+resume: /assets/Resume.pdf
 website: 7vikpeculiar.github.io
 #Your website (eg. https://google.com)(optional)
 
 # Social links
 twitter_username: jekyllrb
-# github_username:  jekyll
+github_username:  7vikpeculiar
 # dribbble_username: jekyll
 facebook_username: jekyll
 # flickr_username: jekyll
@@ -37,6 +37,7 @@ about_content: | # this will include new lines to allow paragraphs
   My CS interests currently lie in <mark>Machine Learning</mark> and
   <mark>Computer Vision</mark>
 
+  [Resume Pdf](/assets/Resume.pdf)
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -49,8 +50,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-    I love learning new things, and books are my way of doing so. I am an avid
-    reader, and 
+    I love learning new things, and **books** are my way of doing so. I am an avid
+    reader. I also have been learning **the guitar** for a while. I love watching
+    **cartoons**, especially the ones that have been around since childhood.
+    *Pokemon*, *ALTA* anyone ?
+
+    I am a **Toastmaster**, at IIIT-H Toastmasters club, where I improve my
+    public speaking skills.
 
 # Footer
 footer_show_references: true
