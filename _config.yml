@@ -1,0 +1,67 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Sathvik Sanjeev B
+title: Undergraduate Student, IIIT
+email: sathviksanjeev.b@research.iiit.ac.in
+#phone:
+website: 7vikpeculiar.github.io
+#Your website (eg. https://google.com)(optional)
+
+# Social links
+twitter_username: jekyllrb
+# github_username:  jekyll
+# dribbble_username: jekyll
+facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: jekyll
+# linkedin_username: jekyll
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+
+  I am an **Undergraduate** Student at [IIIT Hyderabad](https://www.iiit.ac.in/).
+  I am part of CCNSB (Centre for Computational Natural Sciences and Bio-informatics)
+  at IIIT.
+
+  In our lab, we work at the crossroads of Computer Science and Natural Sciences.
+  My CNS research interests lie in **Systems Biology** and **Mathematical Modelling**.
+  My CS interests currently lie in <mark>Machine Learning</mark> and
+  <mark>Computer Vision</mark>
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# educaton_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+    I love learning new things, and books are my way of doing so. I am an avid
+    reader, and 
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
