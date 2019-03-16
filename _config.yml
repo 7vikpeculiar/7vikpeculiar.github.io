@@ -6,7 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Sathvik Sanjeev B
 title: Undergraduate Student, IIIT
 email: sathviksanjeev.b@research.iiit.ac.in
-resume: /assets/Resume.pdf
+# resume_link: /assets/Resume.pdf
+# resume: Resume
 website: 7vikpeculiar.github.io
 #Your website (eg. https://google.com)(optional)
 
@@ -61,7 +62,8 @@ more_content: | # this will include new lines to allow paragraphs
 
     I am a **Toastmaster**, at IIIT-H Toastmasters club, where I have been improving my
     public speaking skills and ofcourse, having a lot of fun.
-
+more_image: images/books.jpg
+            images/profile.jpg
 # Footer
 footer_show_references: true
 

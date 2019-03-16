@@ -1,7 +1,7 @@
 # Experience template
 - company: Independent Study
   link: http://labs.precog.iiitd.edu.in/elections-2019/
-  job_title:  Systems Organisation
+  job_title:  Professor PK
   dates: Spring 2019 (ongoing)
   description: | # this will include new lines to allow paragraphs
     I am doing independent study with Prof. Ponnurangam Kumaraguru from IIIT-D.
@@ -16,7 +16,7 @@
     - Location based analysis of tweets **(Mar 2019 - Ongoing)**
 
   tags: <mark>Dash App</mark>
-        <mark>Twitter Data Analyis</mark>
+        <mark>Twitter Data Analysis</mark>
         <mark>Elections 2019</mark>
 
 - company: Teaching Assitant
@@ -26,6 +26,9 @@
   description: | # this will include new lines to allow paragraphs
     I am a TA to Prof. Suresh Purini for **Computer System Organisation**, a UG-1 course.
 
+    Due to academic excellence in the course for Spring 2017, I have been offered
+    TAship for the same in Spring 2019
+
     My duties include, conducting weekly one-hour long tutorials, holding office
     hours, grading assignments and answer scripts
 
@@ -34,7 +37,8 @@
   job_title: Real Analysis
   dates: Monsoon 2018
   description: | # this will include new lines to allow paragraphs
-    I was a TA to Prof. Lakshmi Burra for **Real Analysis**, a UG-1 course.
+    Due to academic excellence in the previous courses, which have  been offered
+    by Prof. Lakshmi Burra, I was a TA to her course, **Real Analysis**, for UG-1.
 
     My duties included, conducting weekly one-hour long tutorials, holding office
     hours, grading quizzes, assignments and answer scripts

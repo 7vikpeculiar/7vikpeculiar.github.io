@@ -7,7 +7,7 @@
     Pratibha Analytics
   description: | # this will include new lines to allow paragraphs
     Worked with Mr. Mallikarjun, for exploring the state of art facial
-    recognition algorithms
+    recognition algorithms, such as Facebook, Google etc.
   tags: <mark>Face Recognition</mark>
 
 - company: Nebulae Soft
@@ -20,7 +20,7 @@
   description: | # this will include new lines to allow paragraphs
     As a part of SSAD (Structured System Analysis and Design) course,
     I worked as an Intern at Nebulaesoft. As a part of the internship,
-    I worked on building Dashboard API's for the app, Boostr
+    I worked on building **Dashboard APIs** for the app, Boostr
 
     We built MongoDb based models for storing relevant data such as Sales Summary
     Stats, Overall Company level stats etc. Then we built API calls for calculating
