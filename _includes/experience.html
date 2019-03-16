@@ -18,6 +18,11 @@
           <p><b>{{ job.title }}</b></p>
           <p>{{ job.dates }}</p>
         {% endfor %}
+        <p>
+        {%- for tag in experience.tags -%}
+        {{tag | strip | markdownify}}
+        {% endfor %}
+        </p>
       </div>
       <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
         {%- if experience.quote -%}

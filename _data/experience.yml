@@ -1,9 +1,38 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- company: Nebulae Soft
+  link: https://nebulaesoft.com/
+  job_title: Software Engineering Intern
+  dates: August 2017 - November 2017
   quote: >
-   Short description of the company (optional)
+    Nebulaesoft provides sales analytics for its customer organisations
+    via its app , Boostr
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    As a part of SSAD (Structured System Analysis and Design) course,
+    I worked as an Intern at Nebulaesoft. As a part of the internship,
+    I worked on building Dashboard API's for the app, Boostr
+
+    We built MongoDb based models for storing relevant data such as Sales Summary
+    Stats, Overall Company level stats etc. Then we built API calls for calculating
+    these stats on a daily, weekly, monthly basis, and periodic updation of these
+    MongoDb components
+
+    This was my first software internship and it gave me a feel of working in a
+    realtime, software development environment, and understanding how software
+    technologies, testing tools and version control are used in the workplace
+
+  tags: <mark>MongoDb</mark>
+        <mark>Cronjs</mark>
+        <mark>NodeJs</mark>
+        <mark>Async.js</mark>
+        <mark>MongoDb Compass</mark>
+
+#NodeJs, CronJs, MongoDb Compass, Async.js
+
+# - company: Company namen)
+#   link: Link to company (optional)
+#   job_title: Job title
+#   dates: Date Range (eg. November 2016 - present)
+#   quote: >
+#    Short description of the company (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     Description of role

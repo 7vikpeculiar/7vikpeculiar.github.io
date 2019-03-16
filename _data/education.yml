@@ -1,8 +1,35 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: International Institute of Information Technology, Hyderabad
+  dates: August 2016 - May 2021 (Expected)
+  qualification: Integrated B.Tech and MS by Research
   quote: >
-    Short institution or course description (optional)
+    B.Tech in Computer Science and MS by Research in Computational Natural Sciences
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    With a current CGPA of *9.2* and a part of CCNSB research centre at IIIT,
+    figuring out, this stuff called *being an adult*.
+
+- name: Fiitjee Junior College, Hyderabad
+  dates: June 2014 - May 2016
+  qualification: Intermediate Education
+  quote: >
+    Board of Intermediate Education, Telangana
+  description: | # this will include new lines to allow paragraphs
+    Graduated Intermediate with MPC (Mathematics, Physics , Chemistry) stream, with a total of *980/1000*.
+    Learnt that the world is not as simple as it seems
+
+- name: Good Shepherd English Medium School, Nandyal, A.P, India
+  dates: Graduated May 2014
+  qualification: High School Diploma
+  quote: >
+    SSC, Andhra Pradesh
+  description: | # this will include new lines to allow paragraphs
+    Graduated High school with a CGPA of *9.8* and the end of
+    childhood :'(
+
+# - name: Good Shepherd English Medium School
+#   dates: 2014
+#   qualification: Qualification (eg. BA Performing Arts)
+#   quote: >
+#     Short institution or course description (optional)
+#   description: | # this will include new lines to allow paragraphs
+#     Description of qualification
