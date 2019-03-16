@@ -41,6 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
   The most interesting things happening in my life, right now, academically speaking are
   - My CNS Research
   - [Independent Study](#acadexp) with Professor PK
+  - [Project](#projec) on Protein Secondary Structure Determination using Deep Learning
 
   _A pdf version of my resume is available [here](/assets/Resume.pdf)_
 # Projects Section
@@ -58,12 +59,12 @@ more_content: | # this will include new lines to allow paragraphs
     I love learning new things, and **books** are my way of doing so. I am an avid
     reader. I also have been learning **the guitar** for a while. I love watching
     **cartoons**, especially the ones that have been around since childhood.
-    *Pokemon*, *ALTA* anyone ?
+    *Pokemon*, *ATLA* anyone ?
 
     I am a **Toastmaster**, at IIIT-H Toastmasters club, where I have been improving my
     public speaking skills and ofcourse, having a lot of fun.
 more_image: images/books.jpg
-            images/profile.jpg
+
 # Footer
 footer_show_references: true
 

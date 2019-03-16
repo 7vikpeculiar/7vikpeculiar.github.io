@@ -7,12 +7,12 @@
         {{ site.more_content | strip | markdownify }}
       </div>
       {%- if site.more_image -%}
-      {%- for tag in site.more_image -%}
+      <!-- {%- for tag in site.more_image -%} -->
       <!-- {{tag | strip }} -->
         <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-          <span class="profile-img" style="background-image: url({{ tag | relative_url }})" />
+          <span class="profile-img" style="background-image: url({{ site.more_image | relative_url }})" />
         </div>
-      {% endfor %}
+      <!-- {% endfor %} -->
       {%- endif -%}
       <!-- <div class="col-md-12">
         {{ site.more_content | strip | markdownify }}

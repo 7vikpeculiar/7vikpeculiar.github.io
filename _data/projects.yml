@@ -1,8 +1,26 @@
 # Project template
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- name: Machine Learning for Protein Secondary Structure Determination
+  link: Github - Protein Secondary Structure Determination
+  github: github.com/sproogen/modern-resume-theme
   quote: >
-    Short overview of the project (optional)
+  tags: <mark>Deep Learning</mark>
+        <mark>Theano</mark>
+        <mark>Protein Structure Prediction</mark>
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+        Using deep learning we are trying to improve the accuracy of
+        protein secondary structure determination.
+
+- name: Face Recognition from Scratch
+  link: Github - Face Recognition Classifier
+  github: github.com/sproogen/modern-resume-theme
+  quote: >
+        As a part of SMAI coure, I built a face recognition classifier from scratch
+  tags: <mark>Python</mark>
+        <mark>Numpy</mark>
+        <mark>PIL</mark>
+  description: | # this will include new lines to allow paragraphs
+        Using basic concepts such as PCA and basic Python libraries such as
+        **Numpy**, **PIL**, a face recognition classifier has been built
+
+        Using PCA each image is converted into a lower dimensional representation
+        using Eigen faces

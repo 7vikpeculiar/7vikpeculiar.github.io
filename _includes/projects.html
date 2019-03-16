@@ -1,16 +1,22 @@
-<div class="container projects-container">
+<div class="container projects-container" id="projec">
   <h3>{{ site.projects_title | default: "Projects" }}</h3>
   {% for project in site.data.projects %}
     <div class="row clearfix project">
       <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
         <h4>{{ project.name }}</h4>
-        {%- if project.link -%}
-          {% include a.html href=project.link class="project-link" %}{{ project.link }}</a>
+        <p>{{  project.dates }}</p>
+        {%- if project.github -%}
+          {% include a.html href=project.github class="project-link" %}{{ project.link }}</a>
         {%- endif -%}
         <p class="no-print">
           <a href="https://github.com/{{ project.github }}" target="_blank">
             <i class="fa fa-github" title="{{ project.name }} Github link"></i>
           </a>
+        </p>
+        <p>
+        {%- for tag in project.tags -%}
+        {{tag | strip | markdownify}}
+        {% endfor %}
         </p>
       </div>
       <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
