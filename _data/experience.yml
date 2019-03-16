@@ -1,4 +1,15 @@
 # Experience template
+- company: Prathibha Analytics
+  link: http://pratibhaanalytics.com/index.html
+  job_title: Software Engineering Intern
+  dates: November 2018 - January 2017
+  quote: >
+    Pratibha Analytics
+  description: | # this will include new lines to allow paragraphs
+    Worked with Mr. Mallikarjun, for exploring the state of art facial
+    recognition algorithms
+  tags: <mark>Face Recognition</mark>
+
 - company: Nebulae Soft
   link: https://nebulaesoft.com/
   job_title: Software Engineering Intern
@@ -25,14 +36,3 @@
         <mark>NodeJs</mark>
         <mark>Async.js</mark>
         <mark>MongoDb Compass</mark>
-
-#NodeJs, CronJs, MongoDb Compass, Async.js
-
-# - company: Company namen)
-#   link: Link to company (optional)
-#   job_title: Job title
-#   dates: Date Range (eg. November 2016 - present)
-#   quote: >
-#    Short description of the company (optional)
-#   description: | # this will include new lines to allow paragraphs
-#     Description of role

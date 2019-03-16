@@ -1,30 +1,49 @@
 # Experience template
-- company: Nebulae Soft
-  link: https://nebulaesoft.com/
-  job_title: Software Engineering Intern
-  dates: August 2017 - November 2017
-  quote: >
-    Nebulaesoft provides sales analytics for its customer organisations
-    via its app , Boostr
+- company: Independent Study
+  link: http://labs.precog.iiitd.edu.in/elections-2019/
+  job_title:  Systems Organisation
+  dates: Spring 2019 (ongoing)
   description: | # this will include new lines to allow paragraphs
-    As a part of SSAD (Structured System Analysis and Design) course,
-    I worked as an Intern at Nebulaesoft. As a part of the internship,
-    I worked on building Dashboard API's for the app, Boostr
+    I am doing independent study with Prof. Ponnurangam Kumaraguru from IIIT-D.
+    We have been performing analysis of twitter data for the upcoming elections 2019
+    We have been consolidating our analysis in the [dashboard](http://labs.precog.iiitd.edu.in/elections-2019/).
+    The work I have done until now, including but not limited to
 
-    We built MongoDb based models for storing relevant data such as Sales Summary
-    Stats, Overall Company level stats etc. Then we built API calls for calculating
-    these stats on a daily, weekly, monthly basis, and periodic updation of these
-    MongoDb components
+    - Analysis of **verified political handles**, around 1,252 in number, to see their
+    twitter follower count, following and tweet count, since August 2018 **(Jan 2019- Feb 2019)**
+    - Moving the dashboard from react based app, to [Dash](https://plot.ly/products/dash/) app
+    **(Feb 2019 - Mar 2019)**
+    - Location based analysis of tweets **(Mar 2019 - Ongoing)**
 
-    This was my first software internship and it gave me a feel of working in a
-    realtime, software development environment, and understanding how software
-    technologies, testing tools and version control are used in the workplace
+  tags: <mark>Dash App</mark>
+        <mark>Twitter Data Analyis</mark>
+        <mark>Elections 2019</mark>
 
-  tags: <mark>MongoDb</mark>
-        <mark>Cronjs</mark>
-        <mark>NodeJs</mark>
-        <mark>Async.js</mark>
-        <mark>MongoDb Compass</mark>
+- company: Teaching Assitant
+  link:
+  job_title: Computer Systems Organisation
+  dates: Spring 2019 (ongoing)
+  description: | # this will include new lines to allow paragraphs
+    I am a TA to Prof. Suresh Purini for **Computer System Organisation**, a UG-1 course.
+
+    My duties include, conducting weekly one-hour long tutorials, holding office
+    hours, grading assignments and answer scripts
+
+- company: Teaching Assitant
+  link:
+  job_title: Real Analysis
+  dates: Monsoon 2018
+  description: | # this will include new lines to allow paragraphs
+    I was a TA to Prof. Lakshmi Burra for **Real Analysis**, a UG-1 course.
+
+    My duties included, conducting weekly one-hour long tutorials, holding office
+    hours, grading quizzes, assignments and answer scripts
+
+  # tags: <mark>MongoDb</mark>
+  #       <mark>Cronjs</mark>
+  #       <mark>NodeJs</mark>
+  #       <mark>Async.js</mark>
+  #       <mark>MongoDb Compass</mark>
 
 #NodeJs, CronJs, MongoDb Compass, Async.js
 

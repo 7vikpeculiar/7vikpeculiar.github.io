@@ -11,12 +11,12 @@ website: 7vikpeculiar.github.io
 #Your website (eg. https://google.com)(optional)
 
 # Social links
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  7vikpeculiar
-# dribbble_username: jekyll
-facebook_username: jekyll
+gitlab_username:  7vikpeculiar
+facebook_username: bugganasathvik.sanjeev
 # flickr_username: jekyll
-instagram_username: jekyll
+instagram_username: made_of_imposter_syndrome
 # linkedin_username: jekyll
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -37,7 +37,11 @@ about_content: | # this will include new lines to allow paragraphs
   My CS interests currently lie in <mark>Machine Learning</mark> and
   <mark>Computer Vision</mark>
 
-  [Resume Pdf](/assets/Resume.pdf)
+  The most interesting things happening in my life, right now, academically speaking are
+  - My CNS Research
+  - [Independent Study](#acadexp) with Professor PK
+
+  _A pdf version of my resume is available [here](/assets/Resume.pdf)_
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -55,8 +59,8 @@ more_content: | # this will include new lines to allow paragraphs
     **cartoons**, especially the ones that have been around since childhood.
     *Pokemon*, *ALTA* anyone ?
 
-    I am a **Toastmaster**, at IIIT-H Toastmasters club, where I have improving my
-    public speaking skills.
+    I am a **Toastmaster**, at IIIT-H Toastmasters club, where I have been improving my
+    public speaking skills and ofcourse, having a lot of fun.
 
 # Footer
 footer_show_references: true
