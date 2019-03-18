@@ -10,6 +10,17 @@
         Using deep learning we are trying to improve the accuracy of
         protein secondary structure determination.
 
+- name: C- Shell
+  link: Github - C - Shell
+  github: github.com/cshell
+  tags: <mark>C</mark>
+        <mark>OS Design</mark>
+        <mark>POSIX SysCalls</mark>
+  quote: >
+        As a part of operating systems course, I built a bash-like shell in C
+  description: |
+
+
 - name: Face Recognition from Scratch
   link: Github - Face Recognition Classifier
   github: github.com/sproogen/modern-resume-theme
@@ -20,7 +31,7 @@
         <mark>PIL</mark>
   description: | # this will include new lines to allow paragraphs
         Using basic concepts such as PCA and basic Python libraries such as
-        **Numpy**, **PIL**, a face recognition classifier has been built
+        **Numpy**, **PIL**, I built a face recognition classifier
 
-        Using PCA each image is converted into a lower dimensional representation
-        using Eigen faces
+        Using PCA each image has been converted into a lower dimensional representation
+        using Eigen faces, for storage, and ease of operating upon
