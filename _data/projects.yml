@@ -5,10 +5,25 @@
   quote: >
   tags: <mark>Deep Learning</mark>
         <mark>Theano</mark>
+        <mark>Keras</mark>
         <mark>Protein Structure Prediction</mark>
   description: | # this will include new lines to allow paragraphs
         Using deep learning we are trying to improve the accuracy of
         protein secondary structure determination.
+
+- name: Automated Event Detection
+  link: Github - OWNSTUFF
+  github: github.com/sproogen/modern-resume-theme
+  quote: >
+          Built out of self interest , an ongoing project
+  tags: <mark>Python</mark>
+        <mark>Beautiful Soup</mark>
+        <mark>Google Calendar API</mark>
+        <mark>NLTK</mark>
+  description: | # this will include new lines to allow paragraphs
+        - Using beautiful soup to extract content from web page
+        - Using NLTK's named entity recognition to extract events and dates
+        - Using Google Calendar API to create calendar events
 
 - name: C- Shell
   link: Github - C - Shell
@@ -19,7 +34,9 @@
   quote: >
         As a part of operating systems course, I built a bash-like shell in C
   description: |
-
+         Built a Bash-like shell using C and POSIX Syscalls.
+         - Implemented certain built-in commands from scratch (cd, ls, pwd, echo).
+         - Implemented background and foreground processes, piping and redirection.
 
 - name: Face Recognition from Scratch
   link: Github - Face Recognition Classifier
@@ -35,3 +52,28 @@
 
         Using PCA each image has been converted into a lower dimensional representation
         using Eigen faces, for storage, and ease of operating upon
+
+- name: CCC Grievance Portal
+  link: Github - CCC Grievance Portal
+  github: github.com/sproogen/modern-resume-theme
+  quote: >
+        As a part of IT Workshop Course
+  tags: <mark>Flask</mark>
+        <mark>HTML</mark>
+        <mark>CSS</mark>
+        <mark>JS</mark>
+        <mark>Bootstrap</mark>
+  description: | # this will include new lines to allow paragraphs
+        Built a CCC Grievance Portal, for registering new dogs, for registering complaints against them
+
+- name: Game Development
+  link: Github - Graphics Projects
+  github: github.com/sproogen/modern-resume-theme
+  quote: >
+        Mini Projects done as a part of Graphics
+  description: | # this will include new lines to allow paragraphs
+        Part of Graphics Course using OpenGL and WebGL, I designed a few games.
+        - A 2D Mario type game, where the player controls a ball, in a terrain collecting coins and killing enemy spikes.
+        - A 3D version of Legend of Zelda, where the character moves in a boat, killing monsters of various difficulties, and various views.
+        - Used WebGl to create a tunnel rush game.
+        - In all these projects,I extensively used,the concepts of camera movement, rotation, changing perspective.
