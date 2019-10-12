@@ -1,4 +1,31 @@
 # Project template
+- name: Bayla Compiler
+  # link: Github
+  # github: github.com/7vikpeculiar/Wiki-Search-Engine
+  quote: >
+         Major Project as a part of compilers course (Ongoing)
+
+  tags: <mark>Flex</mark>
+        <mark>Bison</mark>
+  description: | # this will include new lines to allow paragraphs
+        Building a compiler for Bayla language, designed using ideas from
+        C and Python
+        The project includes
+        - Scanning using Flex
+        - Parsing using Bison
+        - AST Generation
+
+- name: Wikipedia Search Engine
+  link: Github - Wiki Search Engine
+  github: github.com/7vikpeculiar/Wiki-Search-Engine
+  quote: >
+          Mini Project as a part of IRE course
+  tags: <mark>Python</mark>
+        <mark>NLTK</mark>
+  description: | # this will include new lines to allow paragraphs
+        Built a Wikipedia Search Engine, that first creates an inverted index
+        and then return results for the query after ranking
+
 - name: Machine Learning for Protein Secondary Structure Determination
   link: Github - Protein Secondary Structure Determination
   github: github.com/sproogen/modern-resume-theme
@@ -6,6 +33,7 @@
   tags: <mark>Deep Learning</mark>
         <mark>Theano</mark>
         <mark>Keras</mark>
+        <mark>Pytorch</mark>
         <mark>Protein Structure Prediction</mark>
   description: | # this will include new lines to allow paragraphs
         Using deep learning we are trying to improve the accuracy of
@@ -18,8 +46,8 @@
           Built out of self interest , an ongoing project
   tags: <mark>Python</mark>
         <mark>Beautiful Soup</mark>
-        <mark>Google Calendar API</mark>
         <mark>NLTK</mark>
+        <mark>Google Calendar API</mark>
   description: | # this will include new lines to allow paragraphs
         - Using beautiful soup to extract content from web page
         - Using NLTK's named entity recognition to extract events and dates
@@ -76,4 +104,4 @@
         - A 2D Mario type game, where the player controls a ball, in a terrain collecting coins and killing enemy spikes.
         - A 3D version of Legend of Zelda, where the character moves in a boat, killing monsters of various difficulties, and various views.
         - Used WebGl to create a tunnel rush game.
-        - In all these projects,I extensively used,the concepts of camera movement, rotation, changing perspective.
+        - In all these projects, I extensively used, the concepts of camera movement, rotation, changing perspective.

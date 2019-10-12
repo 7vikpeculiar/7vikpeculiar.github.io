@@ -1,0 +1,36 @@
+<div class="container experience-container" id="acadexp">
+    <h3>{{ site.job_title | default: "Positions of Responsibility " }}</h3>
+    {% for job in site.data.jobs %}
+      <div class="row clearfix experience">
+        <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+          <h4 class="name">
+            {%- if job.link -%}
+              {% include a.html href=experience.link %}
+            {%- endif -%}
+            {{ job.company }}
+            {%- if job.link -%}
+              </a>
+            {%- endif -%}
+            </h4>
+          <p><b>{{ job.job_title }}</b></p>
+          <p>{{ job.dates }}</p>
+          {% for jobe in job.jobs %}
+            <p><b>{{ jobe.title }}</b></p>
+            <p>{{ jobe.dates }}</p>
+          {% endfor %}
+          <p>
+          {%- for tag in experience.tags -%}
+          {{tag | strip | markdownify}}
+          {% endfor %}
+          </p>
+        </div>
+        <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+          {%- if experience.quote -%}
+            <p class="quote">{{ experience.quote }}</p>
+          {%- endif -%}
+          {{ experience.description | strip | markdownify }}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  

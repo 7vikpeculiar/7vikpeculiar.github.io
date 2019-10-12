@@ -13,7 +13,10 @@
     twitter follower count, following and tweet count, since August 2018 **(Jan 2019- Feb 2019)**
     - Moving the dashboard from react based app, to [Dash](https://plot.ly/products/dash/) app
     **(Feb 2019 - Mar 2019)**
-    - Location based analysis of tweets **(Mar 2019 - Ongoing)**
+    - Location based analysis of tweets **(Mar 2019 - Apr 2019)**
+    - Phase wise analysis of the 7 phases of Elections along with the day of results **(Apr 2019 - June 2019)**
+    - Submitted a paper on Comparision of 2014 and 2019 elections to CODS-COMAD Conference, also available in
+    ArXiv [here](https://arxiv.org/abs/1909.07144)
 
   tags: <mark>Dash App</mark>
         <mark>Twitter Data Analysis</mark>
@@ -22,9 +25,9 @@
 - company: Teaching Assistant
   link:
   job_title: Computer Systems Organisation
-  dates: Spring 2019 (ongoing)
+  dates: Spring 2019
   description: | # this will include new lines to allow paragraphs
-    I am a TA to Prof. Suresh Purini for **Computer System Organisation**, a UG-1 course.
+    I was a TA to Prof. Suresh Purini for **Computer System Organisation**, a UG-1 course.
 
     Due to academic excellence in the course for Spring 2017, I have been offered
     TAship for the same in Spring 2019
@@ -42,20 +45,3 @@
 
     My duties included, conducting weekly one-hour long tutorials, holding office
     hours, grading quizzes, assignments and answer scripts
-
-  # tags: <mark>MongoDb</mark>
-  #       <mark>Cronjs</mark>
-  #       <mark>NodeJs</mark>
-  #       <mark>Async.js</mark>
-  #       <mark>MongoDb Compass</mark>
-
-#NodeJs, CronJs, MongoDb Compass, Async.js
-
-# - company: Company namen)
-#   link: Link to company (optional)
-#   job_title: Job title
-#   dates: Date Range (eg. November 2016 - present)
-#   quote: >
-#    Short description of the company (optional)
-#   description: | # this will include new lines to allow paragraphs
-#     Description of role
