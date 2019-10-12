@@ -40,11 +40,12 @@ about_content: | # this will include new lines to allow paragraphs
 
   The most interesting things happening in my life, right now, academically speaking are
   - My CNS Research
-  # - [Independent Study](#acadexp) with Professor PK
   - Topic Generation for Indian Language Wikipedia as a part of IRE course
 
   _A pdf version of my resume is available [here](/assets/Resume.pdf)_
 # Projects Section
+# - [Independent Study](#acadexp) with Professor PK
+
 # projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
